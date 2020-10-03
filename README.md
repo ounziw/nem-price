@@ -4,6 +4,9 @@ WordPress plugin: nem price display via zaif api
 ## プラグインの概要
 zaif api を利用して、仮想通貨 nem の価格を表示する WordPress プラグイン。
 
+## API URLの設定
+/wp-admin/options-general.php?page=crypt で、zaif api の url を入力する。
+
 ## ブロックエディタ
 WordPress の編集画面でブロックを選択し、編集する
 
